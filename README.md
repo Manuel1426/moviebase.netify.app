@@ -8,7 +8,18 @@
 
 ## :dart: About
 
-<p>This is a Web Movie Application, I create this app for learn develop application using React, Typescript, Vite, React Router, and Redux Toolkit</p>
+<p>This is a Web Movie Application, Movie Base A Movie Downloading and Streaming website
+This project was developed as part of my ALX final projcet
+Project Contain Responsive Navigation Bar with Hamburger Menu Hero Section Upcoming Movie Section Service Section Top Rated Movie Section TV Series Section Trial Section Footer Section Multipage Movie website Added Movie Detail Page
+Tech Stack
+HTML CSS Javascript REACT, VITE, Typescript, Tailwind CSS, Redux Toolkit
+Install NPM dependencies install nmp i bootstrap-icons, and TMdB API.
+Development and Version Control Git and GitHub
+This architecture is designed to be modular and scalable, allowing for parts of the system to be updated or replaced as requirements evolve without major overhauls to the entire application.
+Responsive Design: Frontend responsive web design for an optimal experience across all devices. Dynamic Interactions: Minimal, intuitive interactions for a smooth frontend experience.
+Clone the repository git clone https://github.com/Manuel1426/movie-app-main.git
+Your application should now be running on http://localhost:3000
+ develop application using React, Typescript, Vite, React Router and Redux Toolkit</p>
 
 <br>
 
@@ -23,16 +34,6 @@
 ## :floppy_disk: Source Data
 
 [Movie Database API](https://api.themoviedb.org)
-
-<br>
-
-## :art: Preview
-
-<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-list.png" alt="movie-list" />
-
-<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-detail.jpeg" alt="movie-detail" />
-
-<br>
 
 ## :rocket: Technologies
 
